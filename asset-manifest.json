@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AskBhagwadGita/static/css/main.1d818f60.css",
+    "main.js": "/AskBhagwadGita/static/js/main.be9d7166.js",
+    "index.html": "/AskBhagwadGita/index.html",
+    "main.1d818f60.css.map": "/AskBhagwadGita/static/css/main.1d818f60.css.map",
+    "main.be9d7166.js.map": "/AskBhagwadGita/static/js/main.be9d7166.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d818f60.css",
+    "static/js/main.be9d7166.js"
+  ]
+}
