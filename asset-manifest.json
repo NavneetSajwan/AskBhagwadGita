@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/BGBfronted/static/css/main.1d818f60.css",
-    "main.js": "/BGBfronted/static/js/main.74f5e0cf.js",
-    "index.html": "/BGBfronted/index.html",
-    "main.1d818f60.css.map": "/BGBfronted/static/css/main.1d818f60.css.map",
-    "main.74f5e0cf.js.map": "/BGBfronted/static/js/main.74f5e0cf.js.map"
+    "main.css": "/BGBfrontend/static/css/main.1d818f60.css",
+    "main.js": "/BGBfrontend/static/js/main.6554bab4.js",
+    "index.html": "/BGBfrontend/index.html",
+    "main.1d818f60.css.map": "/BGBfrontend/static/css/main.1d818f60.css.map",
+    "main.6554bab4.js.map": "/BGBfrontend/static/js/main.6554bab4.js.map"
   },
   "entrypoints": [
     "static/css/main.1d818f60.css",
-    "static/js/main.74f5e0cf.js"
+    "static/js/main.6554bab4.js"
   ]
 }
