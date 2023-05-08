@@ -13,7 +13,7 @@ function App() {
   const handleSubmit = async (event) => {
     event.preventDefault();
     setIsLoading(true);
-    const response = await fetch('http://localhost:8000/api/endpoint', {
+    const response = await fetch('${process.env.PUBLIC_URL}/api/endpoint', {
       method: 'POST',
       body: JSON.stringify({ input: inputValue }),
       headers: { 'Content-Type': 'application/json' }
@@ -24,7 +24,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route exact path="/">
           <div className="container">
