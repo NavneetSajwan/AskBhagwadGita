@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/BGBfrontend/static/css/main.1d818f60.css",
-    "main.js": "/BGBfrontend/static/js/main.6554bab4.js",
-    "index.html": "/BGBfrontend/index.html",
-    "main.1d818f60.css.map": "/BGBfrontend/static/css/main.1d818f60.css.map",
-    "main.6554bab4.js.map": "/BGBfrontend/static/js/main.6554bab4.js.map"
+    "main.css": "/AskBhagwadGita/static/css/main.1d818f60.css",
+    "main.js": "/AskBhagwadGita/static/js/main.f0ff597c.js",
+    "index.html": "/AskBhagwadGita/index.html",
+    "main.1d818f60.css.map": "/AskBhagwadGita/static/css/main.1d818f60.css.map",
+    "main.f0ff597c.js.map": "/AskBhagwadGita/static/js/main.f0ff597c.js.map"
   },
   "entrypoints": [
     "static/css/main.1d818f60.css",
-    "static/js/main.6554bab4.js"
+    "static/js/main.f0ff597c.js"
   ]
 }
