@@ -13,7 +13,7 @@ function App() {
   const handleSubmit = async (event) => {
     event.preventDefault();
     setIsLoading(true);
-    const response = await fetch('${process.env.PUBLIC_URL}/api/endpoint', {
+    const response = await fetch('https://jeknu8iobb.execute-api.ap-south-1.amazonaws.com/test/transactions', {
       method: 'POST',
       body: JSON.stringify({ input: inputValue }),
       headers: { 'Content-Type': 'application/json' }
